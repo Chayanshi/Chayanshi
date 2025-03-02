@@ -43,7 +43,7 @@
 
 - 💬 Ask me about **Web development, Python, and REST APIs**
 
-- 📫 How to reach me: **chayanshiv10@gmail.com**
+- 📫 How to reach me: **vermachayanshi02@gmail.com**
 
 - ⚡ Fun fact: **I create artworks. You can visit my Instagram profile to view some of them.**
 
