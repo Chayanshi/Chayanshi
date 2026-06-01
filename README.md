@@ -1,4 +1,4 @@
-<img width="747" height="569" alt="image" src="https://github.com/user-attachments/assets/9a1ae29e-a9dd-4ebf-a216-e9066efa1654" /><h1 align="center">Hi 👋, I'm Chayanshi Verma</h1>
+<h1 align="center">Hi 👋, I'm Chayanshi Verma</h1>
 
 <h3 align="center">
 Backend Python Engineer building scalable backend systems and SaaS platforms
